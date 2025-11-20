@@ -1,3 +1,7 @@
+# hsl-laskuri
+
+Simple calculator that finds somewhat optimal ticket for you. First select the ticket zone that the trips go through. Then set the number of trips and set the timeframe where you are going to do those trips. Usually you just set it to 30 days to find the best ticket(s) for the next month. Then select a discount group. If you are not part of one select adult. The calculator only recommends buying one type of ticket. It cannot recommend buying a mix different types of tickets.
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
